@@ -2,7 +2,7 @@
   "name": "dev-git",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/robarros/dev-git.git",
+  "repository": "git@github.com:robarros/dev-git.git",
   "author": "robarros <robarros@gmail.com>",
   "license": "MIT",
   "private": true,
