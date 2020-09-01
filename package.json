@@ -1,0 +1,24 @@
+{
+  "name": "dev-git",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/robarros/dev-git.git",
+  "author": "robarros <robarros@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "@commitlint/cli": "^9.1.2",
+    "@commitlint/config-conventional": "^9.1.2",
+    "husky": "^4.2.5"
+  },
+  "commitlint": {
+    "extends": [
+      "@commitlint/config-conventional"
+    ]
+  },
+  "husky": {
+    "hooks": {
+      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
+    }
+  }
+}
