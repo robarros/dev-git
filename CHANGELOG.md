@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/robarros/dev-git/compare/v1.0.0...v1.1.0) (2020-09-01)
+
+
+### Features
+
+* fffffffffffffff ([053b5c5](https://github.com/robarros/dev-git/commit/053b5c528110bfde12a2c72be92d9feb1c7eebc3))
+
 # 1.0.0 (2020-09-01)
 
 
