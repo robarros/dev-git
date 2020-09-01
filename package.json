@@ -6,7 +6,7 @@
   "license": "MIT",
   "private": true,
   "scripts": {
-    "release": "semantic-release"
+    "release": "semantic-release --no-ci"
   },
   "devDependencies": {
     "@commitlint/cli": "^9.1.2",
