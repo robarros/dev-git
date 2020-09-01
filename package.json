@@ -2,10 +2,6 @@
   "name": "dev-git",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": {
-    "type": "git",
-    "url": "git@github.com:robarros/dev-git"
-  },
   "author": "robarros <robarros@gmail.com>",
   "license": "MIT",
   "private": true,
@@ -29,5 +25,6 @@
     "hooks": {
       "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
     }
-  }
+  },
+  "repository": "https://github.com/robarros/dev-git.git"
 }
