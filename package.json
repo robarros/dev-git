@@ -27,7 +27,10 @@
       "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
     }
   },
-  "repository": "https://github.com/robarros/dev-git.git",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:robarros/dev-git.git"
+  },
   "config": {
     "commitizen": {
       "path": "./node_modules/cz-conventional-changelog"
