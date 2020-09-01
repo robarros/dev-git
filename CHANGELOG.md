@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/robarros/dev-git/compare/v1.1.0...v1.1.1) (2020-09-01)
+
+
+### Bug Fixes
+
+* adicionado novo fix ([e49c479](https://github.com/robarros/dev-git/commit/e49c47936b2151b7dd16766dc1ff5446422d9bd9))
+
 # [1.1.0](https://github.com/robarros/dev-git/compare/v1.0.0...v1.1.0) (2020-09-01)
 
 
